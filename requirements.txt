@@ -1,0 +1,5 @@
+requests
+pyfiglet
+user_agent
+python-telegram-bot
+Flask
