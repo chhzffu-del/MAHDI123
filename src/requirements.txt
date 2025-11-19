@@ -1,4 +1,0 @@
-requests
-python-telegram-bot
-flask
-beautifulsoup4
