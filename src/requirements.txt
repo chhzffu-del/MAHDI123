@@ -1,0 +1,7 @@
+python-telegram-bot
+requests
+flask
+user-agent
+pyfiglet
+beautifulsoup4
+selenium
